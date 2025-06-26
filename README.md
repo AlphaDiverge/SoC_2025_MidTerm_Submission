@@ -186,7 +186,7 @@ The only difference is the space complexity which keeps a track of the memory us
 An issue with binary search is that, the data must be sorted. If unsorted, sorting will also add to it. But for sorted data, binary outperforms linear search(ie: going through each element from start to finish).
 
 ### Lesson 5: Strings
-This too has been covered in details in the CS101 course. Problems have been solved by me in this, and I will include some of those problems in the repo.
+This too has been covered in details in the CS101 course. Problems have been solved by me in this, but there is a more comprehensive lesson on strings at the end of the course. Hence, I will add those codes after that.
 
 ### Lesson 6: Linked Lists
 This too, like strings and arrays have been covered in CS101. But this is quite an important data structure. Hence, its theory is given below.\
