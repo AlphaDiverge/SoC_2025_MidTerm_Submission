@@ -4,4 +4,4 @@
 
 ### I was not able to do all the questions on the website during my normal sessions too, some were difficult, but some questions which i have taken help for and now know how to do them, have also been included.
 
-### Also, each folder contains one file with all the solved problems together. I did not make multiple files. I have included the function definition soutions for the problems together in one file. I did not want to cause a huge headache to the mentors by adding too many files.
+### Also, each folder contains one file with all the solved problems together. I did not make multiple files. I have included the function definition soutions for the problems together in one file. I did not want to cause a huge headache to the mentors by adding too many files, because there are approximately 30 files.[Few lines of code but a lot of time spent :) ]
